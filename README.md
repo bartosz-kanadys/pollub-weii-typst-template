@@ -20,10 +20,11 @@ Repozytorium składa się z następujących plików:
 ## Funkcje szablonu
 
 * **Automatyczne numerowanie:** Skonfigurowane numerowanie nagłówków (1.1) oraz stron.
-* **Formatowanie tekstu:** Ustawiony język polski, marginesy na oprawę (lustrzane: 3.5cm wewnątrz, 2.5cm zewnątrz) oraz justowanie tekstu.
+* **Formatowanie tekstu:** Ustawiony język polski, marginesy na oprawę (lustrzane: 3.5cm wewnątrz, 2cm zewnątrz) oraz justowanie tekstu.
 * **Spis treści:** Automatycznie generowany spis treści.
 * **Bibliografia:** Wsparcie dla stylu IEEE z wykorzystaniem zewnętrznego pliku `.bib`.
 * **Obiekty:** Predefiniowane style dla podpisów tabel (nad tabelą) i rysunków (pod rysunkiem).
+* **Automatyczne usuwanie „sierotek” (wiszących spójników)**
 
 ## Dokumentacja Typst
   Szablon bazuje na standardowych funkcjach systemu Typst. Aby w pełni wykorzystać możliwości narzędzia, dostosować formatowanie lub rozwiązać ewentualne problemy, **zapoznaj się z oficjalną dokumentacją**:
