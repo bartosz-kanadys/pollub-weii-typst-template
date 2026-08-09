@@ -11,7 +11,7 @@
 
 ) <kotek>
 
-Jak pokazano na @kotek jest sobie kotek
+Jak pokazano na @fig:kotek jest sobie kotek
 
 #v(4em)
 #figure(
@@ -36,6 +36,6 @@ Jak pokazano na @kotek jest sobie kotek
   caption: [Jakaś tabela.],
 )<tabela1>
 
-Odwołanie do @tabela1. Poradnik do tabeli - * https://typst.app/docs/guides/tables *
+Odwołanie do @tbl:tabela1. Poradnik do tabeli - * https://typst.app/docs/guides/tables *
 
 Dokumentacja typst - https://typst.app/docs/
